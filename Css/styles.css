@@ -49,3 +49,27 @@ footer {
     box-shadow: 20px 20px 50px whitesmoke;
     cursor: pointer;
 }
+
+.productos{
+    width: 355px;
+    margin-left: 60px;
+    height: 300px;
+    padding: 20px;
+    margin-top: 100px;
+}
+
+.delivery{
+    width: 250px;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.btn-productos{
+    margin-top: 1px;
+    margin-left: 180px;
+}
+
+.btn-pedido{
+    margin-top: 10px;
+    margin-left: 130px;
+}
