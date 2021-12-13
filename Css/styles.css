@@ -1,0 +1,51 @@
+.vu_top-bar{
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
+
+.navbar{
+    height: 40px;
+}
+
+.title{
+    justify-content: center;
+    margin-top: 80px;
+    background-color: rgb(56, 54, 54);
+    color: azure;
+}
+
+.logo{
+    width: 100px;
+    box-shadow: 3px 3px 10px whitesmoke;
+    cursor: pointer;
+}
+
+.contact{
+    justify-content: center;
+
+}
+
+footer {
+	padding: 10px 10px 0 10px;
+	background-color: black;
+	margin-bottom: 0;
+	margin-top: 10px;
+    color:blanchedalmond;
+
+}
+
+.date{
+    margin: 10px;
+}
+
+.background{
+    background-image: url(/assets/Fondo.jpg);
+    background-size: cover;
+}
+
+.content_index{
+    margin-top: 100px;
+    box-shadow: 20px 20px 50px whitesmoke;
+    cursor: pointer;
+}
